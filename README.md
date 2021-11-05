@@ -2,7 +2,7 @@
 This script is a reminder of when the user should blinkhis/her eyes to avoid "Dry eyes" .
 To install the script , copy the following commands .
 
-## How To Install For Linux A& Mac
+## How To Install For Linux & Mac
 ```bash
 git clone https://github.com/psyk3r/eyerest.git
 cd eyerest
